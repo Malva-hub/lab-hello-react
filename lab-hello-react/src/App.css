@@ -1,0 +1,16 @@
+
+
+#components{
+  display: flex;
+  align-content: space-between;
+}
+
+#sectionNavTitle{
+  background-color: rgb(9, 9, 59);
+}
+
+#home{
+  color: white;
+  
+}
+
